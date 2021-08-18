@@ -1,0 +1,16 @@
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\Queries.exe
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\Queries.deps.json
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\Queries.runtimeconfig.json
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\Queries.runtimeconfig.dev.json
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\Queries.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\ref\Queries.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\bin\Debug\net5.0\Queries.pdb
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.AssemblyInfoInputs.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.AssemblyInfo.cs
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.csproj.CoreCompileInputs.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\ref\Queries.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.pdb
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.genruntimeconfig.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\Queries\obj\Debug\net5.0\Queries.csproj.AssemblyReference.cache

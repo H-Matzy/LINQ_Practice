@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziHPJ0CSFRZzNoysxdHa5WTwWJP4nrcNqpImHMBhTu5iJryyGd+Dgj9Jrc0Q/AM3C7vL6NPK/mnehdO3nHD+MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HMatz\\source\\repos\\IntroToLINQ\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HMatz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

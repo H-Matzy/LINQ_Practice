@@ -1,0 +1,16 @@
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\Features.exe
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\Features.deps.json
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\Features.runtimeconfig.json
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\Features.runtimeconfig.dev.json
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\Features.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\ref\Features.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\bin\Debug\net5.0\Features.pdb
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.AssemblyInfoInputs.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.AssemblyInfo.cs
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\ref\Features.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.pdb
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.genruntimeconfig.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\Features\obj\Debug\net5.0\Features.csproj.AssemblyReference.cache

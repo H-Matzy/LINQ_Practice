@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroToLINQ", "IntroToLINQ\IntroToLINQ.csproj", "{450C7906-4523-471A-8E60-9A9942AA1F8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features", "Features\Features.csproj", "{7BB25027-359C-46E9-8A63-ED8E15236689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries", "Queries\Queries.csproj", "{1D035F66-EAE7-43D4-9618-FC71A5BC5587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450C7906-4523-471A-8E60-9A9942AA1F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450C7906-4523-471A-8E60-9A9942AA1F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450C7906-4523-471A-8E60-9A9942AA1F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450C7906-4523-471A-8E60-9A9942AA1F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB25027-359C-46E9-8A63-ED8E15236689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB25027-359C-46E9-8A63-ED8E15236689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB25027-359C-46E9-8A63-ED8E15236689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB25027-359C-46E9-8A63-ED8E15236689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D035F66-EAE7-43D4-9618-FC71A5BC5587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D035F66-EAE7-43D4-9618-FC71A5BC5587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D035F66-EAE7-43D4-9618-FC71A5BC5587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D035F66-EAE7-43D4-9618-FC71A5BC5587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D50A645-C573-4A63-8A8E-BBAB8B8D8F66}
+	EndGlobalSection
+EndGlobal

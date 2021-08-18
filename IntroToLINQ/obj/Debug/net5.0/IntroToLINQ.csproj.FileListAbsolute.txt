@@ -1,0 +1,16 @@
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\IntroToLINQ.exe
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\IntroToLINQ.deps.json
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\IntroToLINQ.runtimeconfig.json
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\IntroToLINQ.runtimeconfig.dev.json
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\IntroToLINQ.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\ref\IntroToLINQ.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\bin\Debug\net5.0\IntroToLINQ.pdb
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.csproj.AssemblyReference.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.AssemblyInfoInputs.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.AssemblyInfo.cs
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.csproj.CoreCompileInputs.cache
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\ref\IntroToLINQ.dll
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.pdb
+C:\Users\HMatz\source\repos\IntroToLINQ\IntroToLINQ\obj\Debug\net5.0\IntroToLINQ.genruntimeconfig.cache
